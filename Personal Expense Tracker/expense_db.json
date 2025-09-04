@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "name": "pizza ",
-        "amount": "600"
+        "name": "bag",
+        "amount": "4000"
+    },
+    {
+        "id": 1,
+        "name": "hello",
+        "amount": "5000"
     },
     {
         "id": 2,
-        "name": "bootle",
-        "amount": "50000"
-    },
-    {
-        "id": 3,
-        "name": "tiger biscut",
-        "amount": "50"
+        "name": "tea",
+        "amount": "40"
     }
 ]
