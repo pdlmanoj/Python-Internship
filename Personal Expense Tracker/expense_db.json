@@ -5,11 +5,6 @@
         "amount": "4000"
     },
     {
-        "id": 1,
-        "name": "hello",
-        "amount": "5000"
-    },
-    {
         "id": 2,
         "name": "tea",
         "amount": "40"
