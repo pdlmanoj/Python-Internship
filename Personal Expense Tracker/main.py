@@ -24,7 +24,7 @@ class ExpenseTracker:
     def __init__(self):
 
         self.expense = []
-        self.filename = 'expense_db.json'
+        self.filename = 'Personal Expense Tracker/expense_db.json'
         ## fetch data from file
         self.__load_data()
         self.__menu()
