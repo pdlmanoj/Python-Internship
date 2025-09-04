@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "pizza ",
+        "amount": "600"
+    },
+    {
+        "id": 2,
+        "name": "bootle",
+        "amount": "50000"
+    },
+    {
+        "id": 3,
+        "name": "tiger biscut",
+        "amount": "50"
+    }
+]
